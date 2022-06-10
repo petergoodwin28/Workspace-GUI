@@ -1,0 +1,1 @@
+C:/Program Files/Google/Chrome/Application/chrome.exe,C:/Users/Peter Goodwin/AppData/Roaming/Spotify/Spotify.exe,C:/Program Files/Docker/Docker/Docker Desktop.exe,
